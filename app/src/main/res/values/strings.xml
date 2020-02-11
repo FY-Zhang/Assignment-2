@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Assignment-2</string>
+    <string name="signin">Sign In</string>
+    <string name="logo">Logo</string>
+    <string name="post">Post</string>
+    <string name="aut" >Author</string>
+    <string name="con" >Content</string>
+    <string name="tit" >Title</string>
+    <string name="p_s" >Post</string>
+    <string name="t_v">Content</string>
 </resources>
